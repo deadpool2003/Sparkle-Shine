@@ -27,6 +27,9 @@ h5{
 marquee{
     font-family: "Yatra One", serif;
 }
+.name{
+    font-family: "Salsa", serif;
+}
 p{
     text-align: justify;
 }
@@ -281,6 +284,9 @@ video~h1{
     padding: 10px;
     transition: all 1s;
 } 
+img+.name{
+    text-shadow: 5px 5px 10px gray;
+}
 .hide{
     width: 100%;
     top: 50%;

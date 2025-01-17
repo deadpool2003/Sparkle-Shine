@@ -399,7 +399,7 @@ i[class$="instagram"]{
         justify-content: center;
         align-items: center;
         opacity: 0;
-        transform: scale(0.3);
+        transform: scale(0);
     }
     nav a{
         width: max-content;

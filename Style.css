@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Chewy&family=Frijole&family=Playwrite+DE+Grund:wght@100..400&family=Rubik+Doodle+Shadow&family=Salsa&family=Skranji:wght@400;700&family=Sriracha&family=Trade+Winds&family=Yatra+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Playwrite+AU+QLD+Guides&family=Signika:wght@300..700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Capriola&display=swap');
 *{
     box-sizing: border-box;
     padding: 0;
@@ -16,7 +17,7 @@ body{
     font-family: "Rubik Doodle Shadow", serif ;
 }
 h4{
-    font-family: "Trade Winds", serif;
+    font-family: "Capriola", serif;
 }
 h5{
     font-family: "Sriracha", serif;
@@ -29,6 +30,9 @@ marquee{
 }
 .name{
     font-family: "Salsa", serif;
+}
+.peach{
+    background-color: rgb(255, 236, 185);
 }
 p{
     text-align: justify;

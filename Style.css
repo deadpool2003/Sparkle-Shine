@@ -32,7 +32,7 @@ marquee{
     font-family: "Salsa", serif;
 }
 .peach{
-    background-color: rgb(255, 236, 185);
+    background-color: rgb(255, 232, 131);
 }
 p{
     text-align: justify;
@@ -376,7 +376,8 @@ i[class$="instagram"]{
 @media only screen and (max-width:800px) {
     nav i{
         opacity: 1;
-        color: rgb(255, 236, 185);
+        text-shadow: 1px 0px skyblue, 0px 1px skyblue, -1px 0px skyblue, 0px -1px skyblue;
+        color: white;
     }
 
     nav{

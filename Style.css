@@ -385,6 +385,7 @@ i[class$="instagram"]{
     }
     nav h1{
         align-self: flex-start;
+        font-size: 35px;
     }
     .subnv{
         background-color: black;

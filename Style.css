@@ -222,7 +222,7 @@ video~h1{
         transform: translateX(-200px);
     }
     .abo>p, .ser1>div:last-child, .ser2>div:last-child, .ser3>div, .offer1>div:last-child, .offer2>div:last-child, .ser5>div:last-child, #contact{
-        transform: translateX(200px);
+        transform: scale(0.4);
     }
 }
 
@@ -232,7 +232,7 @@ video~h1{
     }
     100%{
         opacity: 1;
-        transform: translateX(0);
+        transform: translateX(0) scale(1);
     }
 }
 
